@@ -17,7 +17,7 @@ public interface ProductClient {
     @GetMapping("/product/showMsg")
     String showMsg();
 
-    //测试openFeign传递 参 数
+    //测试openFeign传递参数
     @GetMapping("/product/findById")
     Map<String,Object> findById(@RequestParam("id")String id);
 
