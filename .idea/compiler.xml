@@ -12,6 +12,7 @@
         <module name="hellospringcloud" />
         <module name="configserver7878" />
         <module name="productsls9992" />
+        <module name="productslsconfig9995" />
         <module name="users9999" />
         <module name="products9998" />
         <module name="usersls9990" />
@@ -40,6 +41,7 @@
       <module name="products9998" target="1.8" />
       <module name="productsls9991" target="1.8" />
       <module name="productsls9992" target="1.8" />
+      <module name="productslsconfig9995" target="1.8" />
       <module name="users9999" target="1.8" />
       <module name="usersls9990" target="1.8" />
     </bytecodeTargetLevel>
@@ -61,6 +63,7 @@
       <module name="products9998" options="-parameters" />
       <module name="productsls9991" options="-parameters" />
       <module name="productsls9992" options="-parameters" />
+      <module name="productslsconfig9995" options="-parameters" />
       <module name="usersls9990" options="-parameters" />
     </option>
   </component>
