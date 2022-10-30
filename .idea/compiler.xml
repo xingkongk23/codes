@@ -7,26 +7,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="consulclient8889" />
-        <module name="eurekaserver8761" />
-        <module name="configserver7878" />
-        <module name="ordersls9993" />
-        <module name="configclient7879" />
         <module name="hystrixdashboard9990" />
-        <module name="usersls9990" />
-        <module name="productsls9992" />
-        <module name="productsls9991" />
-        <module name="products9998" />
-        <module name="gateway8989" />
+        <module name="configclient7879" />
         <module name="hellospringcloud" />
+        <module name="configserver7878" />
+        <module name="productsls9992" />
         <module name="users9999" />
+        <module name="products9998" />
+        <module name="usersls9990" />
+        <module name="productsls9991" />
+        <module name="eurekaserver8761" />
+        <module name="gateway8989" />
+        <module name="consulclient8889" />
+        <module name="ordersls9993" />
         <module name="eurekaclient8888" />
+        <module name="configserverls9994" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="aaaa" target="1.8" />
       <module name="configclient7879" target="1.8" />
       <module name="configserver7878" target="1.8" />
+      <module name="configserverls9994" target="1.8" />
       <module name="consulclient8889" target="1.8" />
       <module name="eurekaclient8888" target="1.8" />
       <module name="eurekaserver8761" target="1.8" />
@@ -47,6 +49,7 @@
       <module name="aaaa" options="-parameters" />
       <module name="configclient7879" options="-parameters" />
       <module name="configserver7878" options="-parameters" />
+      <module name="configserverls9994" options="-parameters" />
       <module name="consulclient8889" options="-parameters" />
       <module name="eurekaclient8888" options="-parameters" />
       <module name="eurekaserver8761" options="-parameters" />

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/configclient7879/configclient7879.iml" filepath="$PROJECT_DIR$/configclient7879/configclient7879.iml" />
       <module fileurl="file://$PROJECT_DIR$/configserver7878/configserver7878.iml" filepath="$PROJECT_DIR$/configserver7878/configserver7878.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserverls9994/configserverls9994.iml" filepath="$PROJECT_DIR$/configserverls9994/configserverls9994.iml" />
       <module fileurl="file://$PROJECT_DIR$/consulclient8889/consulclient8889.iml" filepath="$PROJECT_DIR$/consulclient8889/consulclient8889.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaclient8888/eurekaclient8888.iml" filepath="$PROJECT_DIR$/eurekaclient8888/eurekaclient8888.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaserver8761/eurekaserver8761.iml" filepath="$PROJECT_DIR$/eurekaserver8761/eurekaserver8761.iml" />
